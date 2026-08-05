@@ -1,0 +1,244 @@
+
+==============================================================================
+  REPORT METEO MULTIMODELLO
+  Valli della Provincia di Cuneo
+  Località: Entracque, Valdieri, Sant'Anna di Valdieri, Terme di Valdieri, Castelmagno, Acceglio, Bellino
+  Eseguito: 04/08/2026 16:30
+  NOTA: Tutti i valori sono PREVISIONI dei modelli NWP,
+        non osservazioni strumentali da stazioni reali.
+==============================================================================
+
+==============================================================================
+  ENTRACQUE — 44.25°N, 7.4°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        24.3°C      6.5      0.1      3.3      3.3   25.9°C   15.8°C
+  ICON-D2      28.0°C     11.2      0.0      0.0      0.0   28.3°C   15.9°C
+  AROME        28.0°C     13.7      0.0      0.0      0.0   28.8°C   16.5°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    27.7°C
+    Spread:    2.9°C
+
+  Precipitazione oggi:
+    Media:     1.1mm
+    Spread:    3.3mm
+
+  [ + ] AFFIDABILITÀ: ALTA
+      Modelli concordanti
+
+==============================================================================
+
+==============================================================================
+  VALDIERI — 44.283°N, 7.4°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        25.4°C      6.5      0.1      3.3      3.3   27.0°C   16.9°C
+  ICON-D2      29.4°C     11.6      0.0      0.0      0.0   29.9°C   14.7°C
+  AROME        27.8°C     12.1      0.0      0.0      0.0   28.7°C   17.8°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    28.5°C
+    Spread:    2.9°C
+
+  Precipitazione oggi:
+    Media:     1.1mm
+    Spread:    3.3mm
+
+  [ + ] AFFIDABILITÀ: ALTA
+      Modelli concordanti
+
+==============================================================================
+
+==============================================================================
+  SANT'ANNA DI VALDIERI — 44.233°N, 7.317°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        25.4°C      2.4      0.0      0.9      0.9   27.1°C   17.9°C
+  ICON-D2      28.6°C      8.9      0.0      0.0      0.2   28.6°C   15.8°C
+  AROME        27.3°C      9.1      0.0      0.0      0.5   28.6°C   17.3°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    28.1°C
+    Spread:    1.5°C
+
+  Precipitazione oggi:
+    Media:     0.3mm
+    Spread:    0.9mm
+
+  [ + ] AFFIDABILITÀ: ALTA
+      Modelli concordanti
+
+==============================================================================
+
+==============================================================================
+  TERME DI VALDIERI — 44.205°N, 7.271°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        23.3°C      2.4      0.0      0.9      0.9   24.9°C   15.7°C
+  ICON-D2      24.1°C      5.4      0.0      0.2      0.1   24.7°C   18.2°C
+  AROME        25.8°C     10.8      0.0      0.1      0.0   26.4°C   15.2°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    25.3°C
+    Spread:    1.7°C
+
+  Precipitazione oggi:
+    Media:     0.4mm
+    Spread:    0.8mm
+
+  [ + ] AFFIDABILITÀ: ALTA
+      Modelli concordanti
+
+==============================================================================
+
+==============================================================================
+  CASTELMAGNO — 44.417°N, 7.217°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        20.2°C      4.3      0.1      2.1      0.8   23.5°C   12.4°C
+  ICON-D2      24.6°C      7.2      0.0      0.0      0.0   24.8°C   17.1°C
+  AROME        18.9°C      9.3      3.3     27.8      3.6   25.9°C   15.1°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    24.7°C
+    Spread:    2.4°C
+
+  Precipitazione oggi:
+    Media:    10.0mm
+    Spread:   27.8mm
+
+  [ ! ] AFFIDABILITÀ: BASSA
+      Modelli discordanti — previsione incerta
+
+==============================================================================
+
+==============================================================================
+  ACCEGLIO — 44.475°N, 6.989°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        22.7°C      9.4      0.1      1.7      2.0   24.1°C   12.6°C
+  ICON-D2      25.6°C     13.7      0.0      0.2     19.9   26.4°C   16.4°C
+  AROME        20.0°C      6.3      0.5      5.6      0.6   26.6°C   14.6°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    25.7°C
+    Spread:    2.5°C
+
+  Precipitazione oggi:
+    Media:     2.5mm
+    Spread:    5.4mm
+
+  [ ~ ] AFFIDABILITÀ: MEDIA
+      Moderata divergenza tra modelli
+
+==============================================================================
+
+==============================================================================
+  BELLINO — 44.583°N, 7.033°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        21.3°C      9.4      0.1      1.7      2.0   22.7°C   11.1°C
+  ICON-D2      20.6°C      7.6      0.0      6.9     29.5   22.7°C   12.1°C
+  AROME        18.5°C      4.3      0.9     13.5      3.1   24.3°C   14.1°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    23.2°C
+    Spread:    1.6°C
+
+  Precipitazione oggi:
+    Media:     7.4mm
+    Spread:   11.8mm
+
+  [ ~ ] AFFIDABILITÀ: MEDIA
+      Moderata divergenza tra modelli
+
+==============================================================================
+
+==============================================================================
+  RIASSUNTO COMPARATIVO
+==============================================================================
+  Località                    T ora      Precip   T max  Spread T   Conf.
+------------------------------------------------------------------------------
+  Entracque                   24.3°C       3.3mm   27.7°C     2.9°C    ALTA
+  Valdieri                    25.4°C       3.3mm   28.5°C     2.9°C    ALTA
+  Sant'Anna di Valdieri       25.4°C       0.9mm   28.1°C     1.5°C    ALTA
+  Terme di Valdieri           23.3°C       0.9mm   25.3°C     1.7°C    ALTA
+  Castelmagno                 20.2°C       2.1mm   24.7°C     2.4°C   BASSA
+  Acceglio                    22.7°C       1.7mm   25.7°C     2.5°C   MEDIA
+  Bellino                     21.3°C       1.7mm   23.2°C     1.6°C   MEDIA
+------------------------------------------------------------------------------
+
+==============================================================================
+  LEGENDA
+==============================================================================
+  Modelli:
+    ECMWF   = ECMWF IFS 0.25° (~25 km, globale, 15 giorni)
+    ICON-D2 = DWD ICON-D2 (~2 km, Europa centrale, 2 giorni)
+    AROME   = Meteo-France AROME HD (~1.5 km, Francia, 4 giorni)
+
+  Tutti i valori sono PREVISIONI, non misure reali.
+  Per osservazioni reali: www.arpa.piemonte.it
+
+  Spread = divergenza tra i 3 modelli
+    Spread T < 3°C e P < 5mm  → ALTA affidabilità
+    Spread T < 6°C e P < 15mm → MEDIA affidabilità
+    Altrimenti                → BASSA affidabilità
+
+  Per decisioni critiche: www.arpa.piemonte.it
