@@ -1,0 +1,27 @@
+name: Reminder Download ARPA
+
+on:
+  schedule:
+    # Ogni lunedì alle 08:00 UTC = 10:00 IT (estate) / 09:00 IT (inverno)
+    - cron: '0 8 * * MON'
+  workflow_dispatch:
+
+jobs:
+  send-reminder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Invia email reminder
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          curl -s -X POST 'https://api.resend.com/emails' \
+            -H "Authorization: Bearer $RESEND_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "from": "Meteo Bot <onboarding@resend.dev>",
+              "to": ["ferri.alessandro@pm.me"],
+              "subject": "📥 Reminder settimanale: download dati ARPA",
+              "html": "<h2>Ciao Alessandro!</h2><p>È lunedì mattina — ricordati di scaricare i dati ARPA Piemonte per la validazione meteo.</p><h3>Stazioni:</h3><ul><li>Valdieri (Terme) — Temp + Precip</li><li>Diga La Piastra — Temp + Precip</li><li>Diga del Chiotas — Temp (+ Precip?)</li><li>Andonno Gesso — Temp + Precip</li><li>Palanfrè — Temp + Precip</li></ul><p>Link: <a href=\"https://utility.arpa.piemonte.it/\">utility.arpa.piemonte.it</a></p><p>Buon lavoro! 🐱</p>"
+            }'
+          echo "Email inviata!"
