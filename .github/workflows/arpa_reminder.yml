@@ -20,7 +20,7 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{
               "from": "Meteo Bot <onboarding@resend.dev>",
-              "to": ["ferri.alessandro@pm.me"],
+              "to": ["resend.uncanny179@passmail.net"],
               "subject": "📥 Reminder settimanale: download dati ARPA",
               "html": "<h2>Ciao Alessandro!</h2><p>È lunedì mattina — ricordati di scaricare i dati ARPA Piemonte per la validazione meteo.</p><h3>Stazioni:</h3><ul><li>Valdieri (Terme) — Temp + Precip</li><li>Diga La Piastra — Temp + Precip</li><li>Diga del Chiotas — Temp (+ Precip?)</li><li>Andonno Gesso — Temp + Precip</li><li>Palanfrè — Temp + Precip</li></ul><p>Link: <a href=\"https://utility.arpa.piemonte.it/\">utility.arpa.piemonte.it</a></p><p>Buon lavoro! 🐱</p>"
             }'
