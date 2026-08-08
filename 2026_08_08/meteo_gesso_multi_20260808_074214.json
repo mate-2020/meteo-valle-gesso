@@ -1,0 +1,244 @@
+{
+  "timestamp": "2026-08-08T07:42:14.107588",
+  "note": "Tutti i valori sono PREVISIONI dei modelli NWP, non osservazioni strumentali.",
+  "stations_source": "ARPA Piemonte - Valle Gesso",
+  "fields_description": {
+    "fcst_temp_now": "Temperatura a 2m prevista dal modello per l'ora corrente (°C)",
+    "fcst_wind_now": "Velocità vento a 10m prevista dal modello per l'ora corrente (km/h)",
+    "fcst_precip_now": "Precipitazione cumulata nell'ora precedente prevista dal modello (mm)",
+    "fcst_temp_max_today": "Temperatura massima odierna prevista dal modello (°C)",
+    "fcst_temp_min_today": "Temperatura minima odierna prevista dal modello (°C)",
+    "fcst_precip_today": "Precipitazione totale odierna prevista dal modello (mm)",
+    "fcst_precip_tomorrow": "Precipitazione totale di domani prevista dal modello (mm)"
+  },
+  "locations": {
+    "Valdieri (Terme)": {
+      "coordinates": {
+        "lat": 44.2047,
+        "lon": 7.2681
+      },
+      "deterministic": {
+        "ECMWF": {
+          "fcst_temp_now": 18.4,
+          "fcst_wind_now": 3.1,
+          "fcst_precip_now": 0.1,
+          "fcst_temp_max_today": 23.5,
+          "fcst_temp_min_today": 14.2,
+          "fcst_precip_today": 2.1,
+          "fcst_precip_tomorrow": 5.0
+        },
+        "ICON-D2": {
+          "fcst_temp_now": 19.4,
+          "fcst_wind_now": 4.3,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 23.0,
+          "fcst_temp_min_today": 14.3,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 2.6
+        },
+        "AROME": {
+          "fcst_temp_now": 17.8,
+          "fcst_wind_now": 4.8,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 23.8,
+          "fcst_temp_min_today": 14.5,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 0.0
+        }
+      },
+      "spread": {
+        "temp_spread": {
+          "mean": 23.4,
+          "spread": 0.8,
+          "min": 23.0,
+          "max": 23.8,
+          "count": 3
+        },
+        "precip_spread": {
+          "mean": 0.7,
+          "spread": 2.1,
+          "min": 0.0,
+          "max": 2.1,
+          "count": 3
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Diga La Piastra": {
+      "coordinates": {
+        "lat": 44.225,
+        "lon": 7.3894
+      },
+      "deterministic": {
+        "ECMWF": {
+          "fcst_temp_now": 21.2,
+          "fcst_wind_now": 2.9,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 25.1,
+          "fcst_temp_min_today": 17.6,
+          "fcst_precip_today": 1.6,
+          "fcst_precip_tomorrow": 5.0
+        },
+        "ICON-D2": {
+          "fcst_temp_now": 22.6,
+          "fcst_wind_now": 2.5,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 27.8,
+          "fcst_temp_min_today": 17.2,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 14.9
+        },
+        "AROME": {
+          "fcst_temp_now": 23.7,
+          "fcst_wind_now": 3.0,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 27.8,
+          "fcst_temp_min_today": 17.7,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 3.1
+        }
+      },
+      "spread": {
+        "temp_spread": {
+          "mean": 26.9,
+          "spread": 2.7,
+          "min": 25.1,
+          "max": 27.8,
+          "count": 3
+        },
+        "precip_spread": {
+          "mean": 0.5,
+          "spread": 1.6,
+          "min": 0.0,
+          "max": 1.6,
+          "count": 3
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Diga del Chiotas": {
+      "coordinates": {
+        "lat": 44.16,
+        "lon": 7.3329
+      },
+      "deterministic": {
+        "ECMWF": {
+          "fcst_temp_now": 14.3,
+          "fcst_wind_now": 3.1,
+          "fcst_precip_now": 0.1,
+          "fcst_temp_max_today": 19.4,
+          "fcst_temp_min_today": 10.1,
+          "fcst_precip_today": 2.1,
+          "fcst_precip_tomorrow": 5.0
+        },
+        "ICON-D2": {
+          "fcst_temp_now": 15.0,
+          "fcst_wind_now": 5.7,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 18.3,
+          "fcst_temp_min_today": 12.7,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 3.6
+        },
+        "AROME": {
+          "fcst_temp_now": 14.4,
+          "fcst_wind_now": 3.9,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 19.1,
+          "fcst_temp_min_today": 11.6,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 0.3
+        }
+      },
+      "spread": {
+        "temp_spread": {
+          "mean": 18.9,
+          "spread": 1.1,
+          "min": 18.3,
+          "max": 19.4,
+          "count": 3
+        },
+        "precip_spread": {
+          "mean": 0.7,
+          "spread": 2.1,
+          "min": 0.0,
+          "max": 2.1,
+          "count": 3
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Andonno Gesso": {
+      "coordinates": {
+        "lat": 44.2888,
+        "lon": 7.4366
+      },
+      "deterministic": {
+        "ECMWF": {
+          "fcst_temp_now": 22.0,
+          "fcst_wind_now": 2.9,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 25.8,
+          "fcst_temp_min_today": 18.3,
+          "fcst_precip_today": 1.6,
+          "fcst_precip_tomorrow": 5.0
+        },
+        "ICON-D2": {
+          "fcst_temp_now": 23.1,
+          "fcst_wind_now": 1.6,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 28.3,
+          "fcst_temp_min_today": 17.2,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 9.6
+        }
+      },
+      "spread": {
+        "temp_spread": {
+          "mean": 27.1,
+          "spread": 2.5,
+          "min": 25.8,
+          "max": 28.3,
+          "count": 2
+        },
+        "precip_spread": {
+          "mean": 0.8,
+          "spread": 1.6,
+          "min": 0.0,
+          "max": 1.6,
+          "count": 2
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Palanfrè": {
+      "coordinates": {
+        "lat": 44.1901,
+        "lon": 7.4886
+      },
+      "deterministic": {},
+      "spread": {
+        "temp_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "precip_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    }
+  }
+}
