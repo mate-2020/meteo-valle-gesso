@@ -1,0 +1,281 @@
+{
+  "timestamp": "2026-08-18T07:31:32.661266",
+  "note": "Tutti i valori sono PREVISIONI dei modelli NWP, non osservazioni strumentali.",
+  "stations_source": "ARPA Piemonte - Valle Gesso",
+  "fields_description": {
+    "fcst_temp_now": "Temperatura a 2m prevista dal modello per l'ora corrente (°C)",
+    "fcst_wind_now": "Velocità vento a 10m prevista dal modello per l'ora corrente (km/h)",
+    "fcst_precip_now": "Precipitazione cumulata nell'ora precedente prevista dal modello (mm)",
+    "fcst_temp_max_today": "Temperatura massima odierna prevista dal modello (°C)",
+    "fcst_temp_min_today": "Temperatura minima odierna prevista dal modello (°C)",
+    "fcst_precip_today": "Precipitazione totale odierna prevista dal modello (mm)",
+    "fcst_precip_tomorrow": "Precipitazione totale di domani prevista dal modello (mm)"
+  },
+  "locations": {
+    "Valdieri (Terme)": {
+      "coordinates": {
+        "lat": 44.2047,
+        "lon": 7.2681
+      },
+      "deterministic": {
+        "ECMWF": {
+          "fcst_temp_now": 19.8,
+          "fcst_wind_now": 1.1,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 24.5,
+          "fcst_temp_min_today": 15.4,
+          "fcst_precip_today": 0.5,
+          "fcst_precip_tomorrow": 0.0
+        },
+        "ICON-D2": {
+          "fcst_temp_now": 18.0,
+          "fcst_wind_now": 1.5,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 25.1,
+          "fcst_temp_min_today": 13.0,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 0.0
+        },
+        "AROME": {
+          "fcst_temp_now": 18.6,
+          "fcst_wind_now": 3.9,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 25.9,
+          "fcst_temp_min_today": 14.6,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": null
+        }
+      },
+      "spread": {
+        "temp_spread": {
+          "mean": 25.2,
+          "spread": 1.4,
+          "min": 24.5,
+          "max": 25.9,
+          "count": 3
+        },
+        "precip_spread": {
+          "mean": 0.2,
+          "spread": 0.5,
+          "min": 0.0,
+          "max": 0.5,
+          "count": 3
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Diga La Piastra": {
+      "coordinates": {
+        "lat": 44.225,
+        "lon": 7.3894
+      },
+      "deterministic": {
+        "ECMWF": {
+          "fcst_temp_now": 22.3,
+          "fcst_wind_now": 3.0,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 26.6,
+          "fcst_temp_min_today": 19.2,
+          "fcst_precip_today": 0.2,
+          "fcst_precip_tomorrow": 0.1
+        },
+        "ICON-D2": {
+          "fcst_temp_now": 23.0,
+          "fcst_wind_now": 2.3,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 28.9,
+          "fcst_temp_min_today": 16.6,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 0.0
+        },
+        "AROME": {
+          "fcst_temp_now": 23.4,
+          "fcst_wind_now": 2.9,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 28.7,
+          "fcst_temp_min_today": 17.7,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": null
+        }
+      },
+      "spread": {
+        "temp_spread": {
+          "mean": 28.1,
+          "spread": 2.3,
+          "min": 26.6,
+          "max": 28.9,
+          "count": 3
+        },
+        "precip_spread": {
+          "mean": 0.1,
+          "spread": 0.2,
+          "min": 0.0,
+          "max": 0.2,
+          "count": 3
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Diga del Chiotas": {
+      "coordinates": {
+        "lat": 44.16,
+        "lon": 7.3329
+      },
+      "deterministic": {
+        "ECMWF": {
+          "fcst_temp_now": 15.7,
+          "fcst_wind_now": 1.1,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 20.4,
+          "fcst_temp_min_today": 11.3,
+          "fcst_precip_today": 0.5,
+          "fcst_precip_tomorrow": 0.0
+        },
+        "ICON-D2": {
+          "fcst_temp_now": 15.7,
+          "fcst_wind_now": 4.7,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 20.0,
+          "fcst_temp_min_today": 12.5,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 0.0
+        },
+        "AROME": {
+          "fcst_temp_now": 16.3,
+          "fcst_wind_now": 2.4,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 20.2,
+          "fcst_temp_min_today": 11.7,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": null
+        }
+      },
+      "spread": {
+        "temp_spread": {
+          "mean": 20.2,
+          "spread": 0.4,
+          "min": 20.0,
+          "max": 20.4,
+          "count": 3
+        },
+        "precip_spread": {
+          "mean": 0.2,
+          "spread": 0.5,
+          "min": 0.0,
+          "max": 0.5,
+          "count": 3
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Andonno Gesso": {
+      "coordinates": {
+        "lat": 44.2888,
+        "lon": 7.4366
+      },
+      "deterministic": {
+        "ECMWF": {
+          "fcst_temp_now": 23.0,
+          "fcst_wind_now": 3.0,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 27.3,
+          "fcst_temp_min_today": 19.9,
+          "fcst_precip_today": 0.2,
+          "fcst_precip_tomorrow": 0.1
+        },
+        "ICON-D2": {
+          "fcst_temp_now": 22.9,
+          "fcst_wind_now": 2.6,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 29.7,
+          "fcst_temp_min_today": 17.2,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 0.0
+        },
+        "AROME": {
+          "fcst_temp_now": 23.9,
+          "fcst_wind_now": 1.5,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 29.6,
+          "fcst_temp_min_today": 17.9,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": null
+        }
+      },
+      "spread": {
+        "temp_spread": {
+          "mean": 28.9,
+          "spread": 2.4,
+          "min": 27.3,
+          "max": 29.7,
+          "count": 3
+        },
+        "precip_spread": {
+          "mean": 0.1,
+          "spread": 0.2,
+          "min": 0.0,
+          "max": 0.2,
+          "count": 3
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Palanfrè": {
+      "coordinates": {
+        "lat": 44.1901,
+        "lon": 7.4886
+      },
+      "deterministic": {
+        "ECMWF": {
+          "fcst_temp_now": 17.1,
+          "fcst_wind_now": 3.0,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 21.4,
+          "fcst_temp_min_today": 14.0,
+          "fcst_precip_today": 0.2,
+          "fcst_precip_tomorrow": 0.1
+        },
+        "ICON-D2": {
+          "fcst_temp_now": 18.1,
+          "fcst_wind_now": 4.7,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 23.0,
+          "fcst_temp_min_today": 14.5,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": 0.0
+        },
+        "AROME": {
+          "fcst_temp_now": 19.3,
+          "fcst_wind_now": 3.6,
+          "fcst_precip_now": 0.0,
+          "fcst_temp_max_today": 22.0,
+          "fcst_temp_min_today": 11.6,
+          "fcst_precip_today": 0.0,
+          "fcst_precip_tomorrow": null
+        }
+      },
+      "spread": {
+        "temp_spread": {
+          "mean": 22.1,
+          "spread": 1.6,
+          "min": 21.4,
+          "max": 23.0,
+          "count": 3
+        },
+        "precip_spread": {
+          "mean": 0.1,
+          "spread": 0.2,
+          "min": 0.0,
+          "max": 0.2,
+          "count": 3
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    }
+  }
+}
