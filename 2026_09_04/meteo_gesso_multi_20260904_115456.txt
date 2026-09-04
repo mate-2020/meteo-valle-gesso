@@ -1,0 +1,189 @@
+
+==============================================================================
+  REPORT METEO MULTIMODELLO
+  Stazioni ARPA Piemonte — Valle Gesso
+  Stazioni: Valdieri (Terme), Diga La Piastra, Diga del Chiotas, Andonno Gesso, Palanfrè
+  Eseguito: 04/09/2026 11:54
+  NOTA: Tutti i valori sono PREVISIONI dei modelli NWP,
+        non osservazioni strumentali da stazioni reali.
+==============================================================================
+
+==============================================================================
+  VALDIERI (TERME) — 44.2047°N, 7.2681°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        27.1°C      1.8      0.0      0.0      0.0   27.2°C   16.0°C
+  ICON-D2      28.0°C     11.2      0.0      0.0      0.0   28.2°C   14.3°C
+  AROME        25.1°C      6.3      0.0      0.0      0.0   27.4°C   16.3°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    27.6°C
+    Spread:    1.0°C
+
+  Precipitazione oggi:
+    Media:     0.0mm
+    Spread:    0.0mm
+
+  [ + ] AFFIDABILITÀ: ALTA
+      Modelli concordanti
+
+==============================================================================
+
+==============================================================================
+  DIGA LA PIASTRA — 44.2250°N, 7.3894°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        28.7°C      7.6      0.0      0.0      0.0   28.8°C   19.0°C
+  ICON-D2      27.8°C      9.4      0.0      0.0      0.0   28.4°C   17.9°C
+  AROME        28.1°C      4.7      0.0      0.0      0.0   28.9°C   18.0°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    28.7°C
+    Spread:    0.5°C
+
+  Precipitazione oggi:
+    Media:     0.0mm
+    Spread:    0.0mm
+
+  [ + ] AFFIDABILITÀ: ALTA
+      Modelli concordanti
+
+==============================================================================
+
+==============================================================================
+  DIGA DEL CHIOTAS — 44.1600°N, 7.3329°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        23.0°C      1.8      0.0      0.0      0.0   23.1°C   11.9°C
+  ICON-D2      22.3°C      9.4      0.0      0.0      0.0   22.3°C   15.3°C
+  AROME        21.6°C      2.5      0.0      0.0      0.0   21.7°C   14.3°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    22.4°C
+    Spread:    1.4°C
+
+  Precipitazione oggi:
+    Media:     0.0mm
+    Spread:    0.0mm
+
+  [ + ] AFFIDABILITÀ: ALTA
+      Modelli concordanti
+
+==============================================================================
+
+==============================================================================
+  ANDONNO GESSO — 44.2888°N, 7.4366°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF        29.5°C      7.6      0.0      0.0      0.0   29.6°C   19.8°C
+  ICON-D2      27.4°C      7.7      0.0      0.0      0.0   28.6°C   17.1°C
+  AROME        29.7°C      7.8      0.0      0.0      0.0   31.3°C   17.5°C
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:    29.8°C
+    Spread:    2.7°C
+
+  Precipitazione oggi:
+    Media:     0.0mm
+    Spread:    0.0mm
+
+  [ + ] AFFIDABILITÀ: ALTA
+      Modelli concordanti
+
+==============================================================================
+
+==============================================================================
+  PALANFRÈ — 44.1901°N, 7.4886°E
+==============================================================================
+
+  MODELLI DETERMINISTICI (PREVISIONI, non osservazioni)
+------------------------------------------------------------------------------
+  Modello      T ora   Vento  Pioggia   Precip   Precip   T max   T min
+                (°C)  (km/h)  ora(mm) oggi(mm)   domani    oggi    oggi
+------------------------------------------------------------------------------
+  ECMWF           --      --       --       --       --      --      --
+  ICON-D2         --      --       --       --       --      --      --
+  AROME           --      --       --       --       --      --      --
+------------------------------------------------------------------------------
+
+  SPREAD TRA MODELLI (divergenza)
+------------------------------------------------------------------------------
+  Temperatura max oggi:
+    Media:        --
+    Spread:      0°C
+
+  Precipitazione oggi:
+    Media:        --
+    Spread:      0mm
+
+  [ + ] AFFIDABILITÀ: ALTA
+      Modelli concordanti
+
+==============================================================================
+
+==============================================================================
+  RIASSUNTO COMPARATIVO
+==============================================================================
+  Stazione                 T ora      Precip   T max  Spread T   Conf.
+------------------------------------------------------------------------------
+  Valdieri (Terme)         27.1°C       0.0mm   27.6°C     1.0°C    ALTA
+  Diga La Piastra          28.7°C       0.0mm   28.7°C     0.5°C    ALTA
+  Diga del Chiotas         23.0°C       0.0mm   22.4°C     1.4°C    ALTA
+  Andonno Gesso            29.5°C       0.0mm   29.8°C     2.7°C    ALTA
+  Palanfrè                     --          --       --       0°C    ALTA
+------------------------------------------------------------------------------
+
+==============================================================================
+  LEGENDA
+==============================================================================
+  Modelli:
+    ECMWF   = ECMWF IFS 0.25° (~25 km, globale, 15 giorni)
+    ICON-D2 = DWD ICON-D2 (~2 km, Europa centrale, 2 giorni)
+    AROME   = Meteo-France AROME HD (~1.5 km, Francia, 4 giorni)
+
+  Stazioni ARPA Piemonte (coordinate WGS84 da UTM Zona 32N):
+    Valdieri (Terme)   44.2047°N  7.2681°E   1390 m
+    Diga La Piastra    44.2250°N  7.3894°E    950 m
+    Diga del Chiotas   44.1600°N  7.3329°E   2020 m
+    Andonno Gesso      44.2888°N  7.4366°E    712 m
+    Palanfrè           44.1901°N  7.4886°E   1625 m
+
+  Tutti i valori sono PREVISIONI, non misure reali.
+  Spread = divergenza tra i 3 modelli
+    Spread T < 3°C e P < 5mm  → ALTA affidabilità
+    Spread T < 6°C e P < 15mm → MEDIA affidabilità
+    Altrimenti                → BASSA affidabilità
+
+  Per osservazioni reali: www.arpa.piemonte.it
