@@ -1,0 +1,141 @@
+{
+  "timestamp": "2026-11-13T15:01:10.311956",
+  "note": "Tutti i valori sono PREVISIONI dei modelli NWP, non osservazioni strumentali.",
+  "stations_source": "ARPA Piemonte - Valle Gesso",
+  "fields_description": {
+    "fcst_temp_now": "Temperatura a 2m prevista dal modello per l'ora corrente (°C)",
+    "fcst_wind_now": "Velocità vento a 10m prevista dal modello per l'ora corrente (km/h)",
+    "fcst_precip_now": "Precipitazione cumulata nell'ora precedente prevista dal modello (mm)",
+    "fcst_temp_max_today": "Temperatura massima odierna prevista dal modello (°C)",
+    "fcst_temp_min_today": "Temperatura minima odierna prevista dal modello (°C)",
+    "fcst_precip_today": "Precipitazione totale odierna prevista dal modello (mm)",
+    "fcst_precip_tomorrow": "Precipitazione totale di domani prevista dal modello (mm)"
+  },
+  "locations": {
+    "Valdieri (Terme)": {
+      "coordinates": {
+        "lat": 44.2047,
+        "lon": 7.2681
+      },
+      "deterministic": {},
+      "spread": {
+        "temp_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "precip_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Diga La Piastra": {
+      "coordinates": {
+        "lat": 44.225,
+        "lon": 7.3894
+      },
+      "deterministic": {},
+      "spread": {
+        "temp_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "precip_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Diga del Chiotas": {
+      "coordinates": {
+        "lat": 44.16,
+        "lon": 7.3329
+      },
+      "deterministic": {},
+      "spread": {
+        "temp_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "precip_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Andonno Gesso": {
+      "coordinates": {
+        "lat": 44.2888,
+        "lon": 7.4366
+      },
+      "deterministic": {},
+      "spread": {
+        "temp_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "precip_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    },
+    "Palanfrè": {
+      "coordinates": {
+        "lat": 44.1901,
+        "lon": 7.4886
+      },
+      "deterministic": {},
+      "spread": {
+        "temp_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "precip_spread": {
+          "mean": null,
+          "spread": 0,
+          "min": null,
+          "max": null,
+          "count": 0
+        },
+        "confidence": "ALTA",
+        "marker": "[ + ]"
+      }
+    }
+  }
+}
